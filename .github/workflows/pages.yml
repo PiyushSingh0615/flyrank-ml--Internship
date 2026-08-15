@@ -1,4 +1,5 @@
 name: Deploy Research Paper
+run-name: Deploy Research Paper
 
 on:
   push:
